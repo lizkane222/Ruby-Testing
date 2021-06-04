@@ -7,7 +7,7 @@ require 'socket'
 
 
 hostname = "localhost"
-port = "3001"
+port = "3000"
 
 server = TCPServer.open(hostname,port)
 
